@@ -1,0 +1,17 @@
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\bin\Debug\net6.0-windows\SERILESTIRMESERVER.exe
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\bin\Debug\net6.0-windows\SERILESTIRMESERVER.deps.json
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\bin\Debug\net6.0-windows\SERILESTIRMESERVER.runtimeconfig.json
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\bin\Debug\net6.0-windows\SERILESTIRMESERVER.dll
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\bin\Debug\net6.0-windows\SERILESTIRMESERVER.pdb
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.csproj.AssemblyReference.cache
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.Form1.resources
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.csproj.GenerateResource.cache
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.AssemblyInfoInputs.cache
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.AssemblyInfo.cs
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.csproj.CoreCompileInputs.cache
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.dll
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\refint\SERILESTIRMESERVER.dll
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.pdb
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\SERILESTIRMESERVER.genruntimeconfig.cache
+C:\Users\alide\source\repos\SERILESTIRMESERVER\SERILESTIRMESERVER\obj\Debug\net6.0-windows\ref\SERILESTIRMESERVER.dll
